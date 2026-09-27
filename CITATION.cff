@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this research artifact, please cite the proposal and repository."
+title: "Strategic Fee-Level Choice under Incomplete Information: An Anti-Coordination Game on Algorand"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Lin
+    email: lin.zhang@dukekunshan.edu.cn
+  - family-names: Wang
+    given-names: Zijie
+    email: zijie.wang@dukekunshan.edu.cn
+date-released: 2026-09-27
+license: MIT
+repository-code: "https://github.com/z2005lin/PS2_Zijie_Lin"
+keywords:
+  - Bayesian game
+  - anti-coordination
+  - transaction fees
+  - Algorand
+  - computational microeconomics
